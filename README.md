@@ -1,6 +1,6 @@
 # Bikiran's Portfolio ⚡️ 
 
-> https://bikiran-das.github.io/bikiran/
+
 
 
 # Sections 📚
